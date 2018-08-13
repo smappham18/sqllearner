@@ -1,0 +1,2 @@
+# sqllearner
+learner of sql
